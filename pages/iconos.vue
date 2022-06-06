@@ -78,11 +78,11 @@
        <div class="flex justify-start items-start flex-col ">
           <div class="flex justify-start items-start w-full ">
             <div class=" mr-6 flex justify-center w-auto flex-col my-4 items-center p-4 border-4 border-pink-500 rounded-md">
-              <a class="font-bold" href="https://vimeo.com/715029674" >Intersticial Deportes</a>
+              <a class="font-bold" href="https://vimeo.com/716821083" >Intersticial Deportes</a>
               
             </div>
             <div class="mr-6 flex justify-center w-auto flex-col my-4 items-center p-4 border-4 border-pink-500 rounded-md">
-             <a class="font-bold" href="https://vimeo.com/715029289">Intersticial El tiempo</a> 
+             <a class="font-bold" href="https://vimeo.com/716822540">Intersticial El tiempo</a> 
             </div>
           </div>
         </div>
