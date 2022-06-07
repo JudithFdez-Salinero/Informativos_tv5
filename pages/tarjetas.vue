@@ -8,7 +8,7 @@
         <h1 class="z-10 absolute top-64 left-12 text-5xl font-extrabold my-4 text-white">Área de respeto</h1>
     </div>
     <Title 
-    title="Este es el área de reserba que no se puede invadir salvo en concretas excepciones."
+    title="Este es el área de reserva que no se puede invadir salvo en concretas excepciones."
     subtitle="Explicamos como se conforman."
     />
     <p class="font-medium w-8/12">
