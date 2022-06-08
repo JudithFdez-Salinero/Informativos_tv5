@@ -8,11 +8,9 @@
     </div>
     <Title 
     title="Animaciones destinadas a la web y el informativo"
-    subtitle="Estos son los inputs, barras de navegación y los desplegables de la aplicación."
+    subtitle=""
     />
-    <p class="font-medium w-8/12">
-      Estos elementos nos ayudarán en la creación de formularios, de las portadas y la reducción de información.
-    </p>
+    
     <div class="ejemplos mb-4 p-8  w-full">
       <h3 class="my-4 font-bold text-lg py-2 px-4 w-60 rounded-md text-pink-500 ">PACK INFORMATIVO</h3>
       <p class=" px-4 w-8/12 mb-4">El planteamiento de las animaciones para la gráfica televisiva, 
@@ -55,8 +53,7 @@
         sobre una mancheta en la que el logotipo aparece con la notificación.
         
         En el resto de animaciones, vemos como las manchetas se desplazan desde la izquierda, a través de la diagonal de la “i” 
-        cobran dinamismo. En cuando a la doble pantalla observamos como la diagonal las enmarca primero y la conexión en directo 
-        sale de la correspondiente al plató. Lo que las caracteriza globalmente es la lateralidad y la diagonalidad. Generando un mismo patrón dinámico para todas las aplicaciones. En cuanto a los logotipos, las animaciones se basan en el concepto de notificación, generando primero una máscara en los bocadillos por los que discurre la marca de la cadena, y colocándose como si esta fuera una alerta. </p>
+        cobran dinamismo.
         <div class="flex justify-start items-start flex-col px-4">
            <div class="flex flex-wrap justify-start items-start w-full">
               <div class=" mr-6 flex justify-center w-auto flex-col my-4 items-center p-4 border-4 border-blue-400 rounded-md">

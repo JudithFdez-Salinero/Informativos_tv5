@@ -12,9 +12,7 @@
     subtitle="Explicamos como se conforman."
     />
     <p class="font-medium w-8/12">
-      Estos elementos están formados por una imagen y un texto. en algunas variaciones incluyen un boton. Estos elementos pueden estar inscritos dentro de la porpia imagen o en el exterior de la misma. 
-      estas variaciones dan dinamismo en las diferentes composiciones de página, además de ayudar a organizar la información en secciones diferenciadas. Facilitando la lectura de la página. 
-      La imagen nos ayuda a distinguir entre podcast sin la necesidad de leer, una vez conozcamos el contenido, relacionando imagen con información.
+      De la misma forma se toma como referencia la medida de la 'i' para todas sus versiones, en los únicos usos que se puede invadir este espacio es en las transiciones o si tienen un fin concretamente estético para la producción audiovisual, que no impresa.
     </p>
     <div class="ejemplos my-8 p-8 bg-gray-500  w-full">
       <h3 class="my-4 font-bold text-lg py-2 px-4 w-80 rounded-md bg-pink-500 text-white">MARCA PRINCIPAL</h3>
@@ -25,9 +23,7 @@
     </div>
      <div class="ejemplos mb-4 p-8 bg-gray-200  w-full">
       <h3 class="my-4 font-bold text-lg py-2 px-4 w-80 rounded-md bg-blue-400 text-white">MARCAS SECUNDARIAS</h3>
-      <p class=" w-8/12 mb-4">De la misma forma se toma como referencia la medida de la 'i' para todas sus versiones, 
-        en los únicos usos que se puede invadir este espacio es en las transiciones o si tienen un fin concretamente estético para 
-        la producción audiovisual, que no impresa.</p>
+      <p class=" w-8/12 mb-4"></p>
       <div class="flex flex-row mt-8">
         <img class="w-72 mr-8"  src="../static/svg/espacio_respeto_info.png" alt="primera base">  
         <img class="w-48 mr-8"  src="../static/svg/espacio_respeto_not.png" alt="primera base">
